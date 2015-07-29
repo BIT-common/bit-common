@@ -1,0 +1,25 @@
+{
+  "name": "bit-common",
+  "version": "1.0.0",
+  "homepage": "https://github.com/BIT-common/bit-common",
+  "authors": [
+    "BIT"
+  ],
+  "description": "website about the bit team",
+  "main": "index.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  }
+}

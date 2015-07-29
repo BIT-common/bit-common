@@ -1,0 +1,31 @@
+{
+  "name": "bit-common",
+  "version": "1.0.0",
+  "description": "website about the bit team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BIT-common/bit-common.git"
+  },
+  "author": "BIT",
+  "license": "ISC",
+
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-karma": "0.0.4",
+    "gulp-less": "^3.0.3",
+    "gulp-uglify": "^1.2.0",
+    "gulp-watch": "^4.2.4"
+  },
+  "dependencies": {
+    "gulp-connect": "^2.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/BIT-common/bit-common/issues"
+  },
+  "homepage": "https://github.com/BIT-common/bit-common"
+}
